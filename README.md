@@ -2,7 +2,7 @@
 
 
 
-# 👗 Classification d’images - Fashion MNIST
+#  Classification d’images - Fashion MNIST
 
 ## 🧠 Description
 Ce projet utilise **TensorFlow et Keras** pour créer un modèle capable de reconnaître différents types de vêtements à partir d’images en niveaux de gris du dataset **Fashion MNIST**.
