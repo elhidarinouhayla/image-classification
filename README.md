@@ -9,7 +9,7 @@ Ce projet utilise **TensorFlow et Keras** pour créer un modèle capable de reco
 
 ---
 
-## ⚙️ Étapes principales
+##  Étapes principales
 
 1. **Chargement des données**
    - Importation du dataset Fashion MNIST intégré à TensorFlow.  
