@@ -48,7 +48,7 @@ Il combine des couches de convolution pour extraire les caractéristiques des im
 
 ---
 
-## 🧩 Technologies utilisées
+##  Technologies utilisées
 - Python  
 - TensorFlow / Keras  
 - NumPy  
